@@ -7,12 +7,12 @@ Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=hhl
+X-KDE-PluginInfo-Author=Hendrik Lehmbruch (hendrikL)
 X-KDE-PluginInfo-Category=
-X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Email=hendrikl@siduction.org
 X-KDE-PluginInfo-License=GPL-2.0+
 X-KDE-PluginInfo-Name=org.kde.deepspace
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Website=http://siduction.org/
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
