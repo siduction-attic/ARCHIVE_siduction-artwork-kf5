@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=deepspaqce Desktop Design 
+Comment=deepspace Desktop Design 
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 Name=deepspace
@@ -12,7 +12,7 @@ X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=hendrikl@siduction.org
 X-KDE-PluginInfo-License=GPL-2.0+
 X-KDE-PluginInfo-Name=org.kde.deepspace
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=2.0
 X-KDE-PluginInfo-Website=http://siduction.org/
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
