@@ -2,13 +2,13 @@
 
 ### Remember, this is still work in progress
 
-* To test the theme you need to install the midnDark theme.
+* ~~To test the theme you need to install the midnDark theme.~~
 
-If not, not all settings works.
+~~If not, not all settings works.~~
 
-You will find it at https://github.com/KaOSx/midna
+~~You will find it at https://github.com/KaOSx/midna~~
 
-Sorry, there is no midna package for debian at the moment.
+~~Sorry, there is no midna package for debian at the moment.~~
 
 * You also need breeze-dark, you can install it via apt-get install breeze,
 and the breeze-icons-theme.
